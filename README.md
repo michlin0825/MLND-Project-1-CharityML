@@ -1,1 +1,1 @@
-# MLND-Project-1-DonorsforCharityML
+# MLND-Project-1-CharityML
